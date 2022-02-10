@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="Presidente"
+run/main_scene="res://helena.tscn"
 config/icon="res://icon.png"
 
 [physics]
